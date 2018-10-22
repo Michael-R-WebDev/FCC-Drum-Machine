@@ -1,0 +1,36 @@
+{
+  "name": "drum-machine",
+  "version": "1.0.0",
+  "description": "Drum machine made with ReactJS as a part of the FreeCodeCamp.org Front-end Frameworks curriculum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michael-R-WebDev/FCC-Drum-Machine.git"
+  },
+  "keywords": [
+    "FCC",
+    "FreeCodeCamp",
+    "Free",
+    "Code",
+    "Camp",
+    "Drum",
+    "Machine",
+    "Drum-Machine",
+    "MichaelR",
+    "Michael",
+    "R",
+    "Michael.R.WebDev",
+    "Michael-R-Webdev",
+    "Rivera",
+    "MichaelRivera"
+  ],
+  "author": "Michael Rivera",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Michael-R-WebDev/FCC-Drum-Machine/issues"
+  },
+  "homepage": "https://github.com/Michael-R-WebDev/FCC-Drum-Machine#readme"
+}
